@@ -1,8 +1,8 @@
-# CarND-Extended-Kalman-Filters-P1
-CarND Extended Kalman Filters Project
+# CarND-Unscented-Kalman-Filters-P1
+CarND Unscented Kalman Filter Project
 
-Performs sensor fusion from Lidar and Radar measurements and uses Extended Kalman Filter methods for predicting and updating and objects position.
+Performs sensor fusion from Lidar and Radar measurements and uses Unscented Kalman Filter methods for predicting and updating and objects position.
 
 ## Build Instructions
 
-From build, run `cmake .. && make` and execute with `./ExtendedKF`.
+From build, run `cmake .. && make` and execute with `./UnscentedKF`.
